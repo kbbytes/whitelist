@@ -1,12 +1,12 @@
 {
   "285024970013409290": {
     "name": "Vexar",
-    "validUntil": "2025-05-26T23:59:59Z",
+    "validUntil": "2030-05-26T23:59:59Z",
     "premium": true
   },
   "382383277303922688": {
     "name": "Enraged",
-    "validUntil": "2025-07-01T00:00:00Z",
+    "validUntil": "2026-01-01T00:00:00Z",
     "premium": false
   }
 }
